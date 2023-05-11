@@ -1,0 +1,385 @@
+*{
+    border: none;
+    border-width: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    
+.headerimage{
+    width: 100%;
+    height: 700px;
+    background: red;
+    display: flex;
+}
+.video{
+    width: 100%;
+    height: 855px;
+}
+.headervideo{
+    width: 100%;
+    position: absolute;
+}
+.headerleft-heading{
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+.header1{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    
+    margin-bottom: 100px;                                                                                                                                                                                                                               
+    position: absolute;
+    position: fixed;
+    
+}
+.header-left{
+    width: 300px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+.headercenter{
+    width: 800px;
+    height: 100px;
+    margin-left: 250px;
+    display: flex;
+    align-items: center;
+
+}
+.header-right{
+    width: 350px;
+    height: 100px;
+    margin-left: 218px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.teslalogo1{
+    width: 130px;
+    height: 90px;
+   
+}
+.models{
+    margin-left: 11px;
+    color: white;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+.expirience-demo{
+    width: 400px;
+    height: 100px;
+    
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 70px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.Expirience{
+    color: white;
+    margin-left: 80px;
+    margin-top: 1px;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 40px;
+    
+}
+.schedule{
+    color: white;
+    margin-left: 115px;
+    margin-top: 20px;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 17px;
+}
+.demo-drive{
+    width: 250px;
+    height: 35px;
+    position: absolute;
+    background-color: rgba(249, 12, 12, 0);
+    margin-left: 650px;
+    margin-top: 600px;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    border: solid ;
+    border-color: white;
+    color: white;
+}
+.content1{
+    width: 100%;
+    height: 900px;
+    background-color: brown;
+    display: flex;
+}
+.content1-image{
+    width: 100%;
+    height: 900px;
+     
+}
+.text-model3{
+    width: 400px;
+    height: 90px;
+    position: absolute;
+    background-color: rgba(128, 255, 0, 0);
+    margin-left: 550px;
+    margin-top: 250px;
+}
+.car-name{
+    color: black;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 40px;
+    margin-left: 110px;
+
+}
+.view-in{
+    
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 17px;
+    margin-left: 130px;
+    color: black;
+}
+.order-now{
+    width: 250px;
+    height: 35px;
+    position: absolute;
+    background-color: rgba(249, 12, 12, 0);
+    margin-left: 450px;
+    margin-top: 700px;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    background-color: #171a20;
+    border-radius: 5px;
+}
+.demo-drive1{
+    width: 250px;
+    height: 35px;
+    position: absolute;
+    background-color: rgba(249, 12, 12, 0);
+    margin-left: 720px;
+    margin-top: 700px;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    background-color: #393c418b;
+    border-radius: 5px;
+}
+.content2{
+    width: 100%;
+    height: 900px;
+    background-color: red;
+    display: flex;
+}
+.content2-image{
+    width: 100%;
+    height: 900px;
+     
+}
+.car-modely{
+    color: black;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 40px;
+    margin-left: 110pX;
+
+}
+.text-modely{
+    width: 400px;
+    height: 90px;
+    position: absolute;
+    background-color: rgba(128, 255, 0, 0);
+    margin-left: 550px;
+    margin-top: 250px;
+}
+.view-in1{
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 17px;
+    margin-left: 130px;
+    color: black;
+
+}
+.content3{
+    width: 100%;
+    height: 900px;
+    background-color: red;
+    display: flex;
+}
+.content3-image{
+    width: 100%;
+    height: 900px;
+     
+}
+.car-modelS{
+    color: black;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 40px;
+    margin-left: 110pX;
+
+}
+.text-modelS{
+    width: 400px;
+    height: 90px;
+    position: absolute;
+    background-color: rgba(128, 255, 0, 0);
+    margin-left: 550px;
+    margin-top: 250px;
+}
+.view-in2{
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 17px;
+    margin-left: 130px;
+    color: black;
+}
+.content4{
+    width: 100%;
+    height: 900px;
+    background-color: red;
+    display: flex;
+}
+.content4-image{
+    width: 100%;
+    height: 900px;
+     
+}
+.car-modelX{
+    color: black;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 40px;
+    margin-left: 110pX;
+
+}
+.text-modelX{
+    width: 400px;
+    height: 90px;
+    position: absolute;
+    background-color: rgba(128, 255, 0, 0);
+    margin-left: 550px;
+    margin-top: 250pX;
+}
+.view-in3{
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 17px;
+    margin-left: 130px;
+    color: black
+}
+.content5{
+    width: 100%;
+    height: 900px;
+    background-color: red;
+    display: flex;
+}
+.home-solar{
+    width: 100%;
+    height: 900px;
+     
+}
+.solar-panel{
+    color: black;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 40px;
+    margin-left: 110pX;
+
+}
+.text-solar{
+    width: 400px;
+    height: 90px;
+    position: absolute;
+    background-color: rgba(255, 0, 0, 0);
+    margin-left: 550px;
+    margin-top: 250pX;
+}
+.solar-cost{
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 17px;
+    margin-left: 90px;
+    color: black
+}
+.content6{
+    width: 100%;
+    height: 900px;
+    background-color: red;
+    display: flex;
+}
+.home-roof{
+    width: 100%;
+    height: 900px;
+     
+}
+.solar-roof{
+    color: black;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 40px;
+    margin-left: 110pX;
+
+}
+.text-roof{
+    width: 400px;
+    height: 90px;
+    position: absolute;
+    background-color: rgba(255, 0, 0, 0);
+    margin-left: 550px;
+    margin-top: 250pX;
+}
+.solar-clean{
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 17px;
+    margin-left: 90px;
+    color: black
+}
+.footer{
+    width: 100%;
+    height: 900px;
+    background-color: red;
+    display: flex
+}
+.text-accosories{
+    width: 400px;
+    height: 90px;
+    position: absolute;
+    background-color: rgba(255, 0, 0, 0);
+    margin-left: 550px;
+    margin-top: 200pX;
+}
+.accesrs{
+    color: black;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 40px;
+    margin-left: 110pX;
+ 
+}
+.shopnow{
+    width: 250px;
+    height: 35px;
+    position: absolute;
+    background-color: rgba(249, 12, 12, 0);
+    margin-left: 650px;
+    margin-top: 700px;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    background-color: #171a20;
+    border-radius: 5px;
+}
+.bottom{
+    width: 700px;
+    height: 20px;
+    display: flex;
+    background-color: rgba(0, 0, 255, 0);
+    margin-left: 500px;
+    padding-left: 30px;
+    margin-top: 800px;
+    position: absolute;
+    
+}
+.bottom-line{
+    margin-left: 10px;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 14px;
+
+    
+}
